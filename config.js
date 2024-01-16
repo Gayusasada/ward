@@ -9,8 +9,8 @@ module.exports = {
         // —— Things that are required for the whole project to work.
         token: "MTE5NTMyNDUzNjA5MTA2MjMzMg.GuqxBj.YIp-E81QNsP0ZrUjWhuJWhI6M4UDw-XIhmTnpg", // —— Your bot's token.
         botId: "1195324536091062332", // —— The bot's ID.
-        guildId: "", // —— The server ID on where the commands will be deployed.
-        verifiedRole: "", // —— Role that will be added to the user when they verify their account.
+        guildId: "1188813133075185674", // —— The server ID on where the commands will be deployed.
+        verifiedRole: "1193209377516179526", // —— Role that will be added to the user when they verify their account.
 
         // —— For users that want to have a role removed upon verification, if you want this, set remove-role to true, and set your remove role ID.
         removeRole: false,
